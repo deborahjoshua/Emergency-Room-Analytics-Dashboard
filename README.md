@@ -49,5 +49,6 @@ The objective was to design a structured analytical model that provides visibili
 
 ---
 
-## Demo Video
-[Watch 90-Second Dashboard Walkthrough](LINK_TO_VIDEO)
+## 🎥 Demo Video
+Watch the 90-second walkthrough here:  
+👉 [Hospital ER Dashboard Walkthrough](https://youtu.be/zTTw7P4ZN4g)
